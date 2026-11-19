@@ -1,6 +1,6 @@
 <p align="center"> <img src="./banner.svg" alt="Laxmi Keerthi Reddy Ganuthala - AI/ML Engineer" width="840" /> </p>
 
-<p align="center"> <strong>AI/ML Engineer · 5+ Years Experience · Perplexity (USA) &amp; PwC (India)</strong><br/> <em>M.S. in Computer &amp; Information Sciences - Montclair State University</em><br/> <a href="https://www.linkedin.com/">LinkedIn</a> · <a href="mailto:ganuthalalaxmikeerthi.r@mycvcareer.com">ganuthalalaxmikeerthi.r@mycvcareer.com</a> </p>
+<p align="center"> <strong>AI/ML Engineer · 5+ Years Experience · Perplexity (USA) &amp; PwC (India)</strong><br/> <em>M.S. in Computer &amp; Information Sciences - Montclair State University</em><br/> <a href="https://www.linkedin.com/in/g-keerthi-reddy-669766216/">LinkedIn</a> · <a href="mailto:ganuthalalaxmikeerthi.r@mycvcareer.com">ganuthalalaxmikeerthi.r@mycvcareer.com</a> </p>
 
 ### About Me
 
